@@ -17,4 +17,3 @@ Log:
 		Mesh size near design should get finer as it approaches the design 
 	Export data to matlab 
 	Do quick mafs to get ion trap depth, height, etc. -> Email prof abt specifics
-
